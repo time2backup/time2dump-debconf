@@ -1,0 +1,9 @@
+Package: time2dump
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: bash
+Maintainer: Jean Prunneaux <jean@prunneaux.com>
+Homepage:
+Description: Database backup tool

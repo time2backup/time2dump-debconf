@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# delete link
+rm -f /usr/bin/time2dump
+
+# do not break uninstall process if the previous command fails
+true

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+ln -sf /usr/src/time2dump/time2dump.sh /usr/bin/time2dump
+
+# do not break install process if the previous command fails
+true
